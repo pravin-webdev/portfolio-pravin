@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/post.astro
-title: Solving Vercel Analytics Blocked by AdBlock Issue
+title: k Issue
 description: Solving Vercel Analytics Blocked by AdBlock Issue
 dateFormatted: Jun 6, 2024
 ---
