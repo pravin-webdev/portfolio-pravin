@@ -5,7 +5,6 @@ description: Axios is a popular JavaScript library for making HTTP requests, and
 dateFormatted: Jan 17, 2025
 ---
 
-```markdown
 # Using Axios in React
 
 Axios is a popular JavaScript library for making HTTP requests, and it's often used in React applications to fetch data from APIs. Below is a simple guide on how to set up and use Axios in React.
