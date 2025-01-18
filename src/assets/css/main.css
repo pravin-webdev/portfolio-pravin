@@ -4,6 +4,10 @@
 
 /* Add Your Custom CSS Here */
 
+body {
+  background-color: #000;
+}
+
 .prose img {
   border-radius: 30px;
 }
