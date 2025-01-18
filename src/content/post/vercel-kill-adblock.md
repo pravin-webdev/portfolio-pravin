@@ -1,11 +1,9 @@
 ---
 layout: ../../layouts/post.astro
-title: k Issue
-description: Solving Vercel Analytics Blocked by AdBlock Issue
-dateFormatted: Jun 6, 2024
+title: Using Axios in React
+description: Axios is a popular JavaScript library for making HTTP requests, and it's often used in React applications to fetch data from APIs. Below is a simple guide on how to set up and use Axios in React.
+dateFormatted: Jan 17, 2025
 ---
-
-Here's a short post on using Axios in React, formatted in Markdown:
 
 ```markdown
 # Using Axios in React
@@ -86,4 +84,3 @@ axios.post('https://api.example.com/submit', { key: 'value' })
 That's it! Axios makes it simple to fetch or send data in your React apps.
 ```
 
-This post gives a concise overview of how to integrate Axios into a React component, demonstrating both `GET` and `POST` requests.
