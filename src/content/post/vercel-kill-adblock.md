@@ -1,3 +1,10 @@
+---
+layout: ../../layouts/post.astro
+title: k Issue
+description: Solving Vercel Analytics Blocked by AdBlock Issue
+dateFormatted: Jun 6, 2024
+---
+
 Here's a short post on using Axios in React, formatted in Markdown:
 
 ```markdown
