@@ -21,6 +21,7 @@
 	},
 	"packageManager": "pnpm@9.12.2",
 	"dependencies": {
-		"@vercel/analytics": "^1.4.1"
+		"@vercel/analytics": "^1.4.1",
+		"solid-js": "^1.0.0"
 	}
 }
