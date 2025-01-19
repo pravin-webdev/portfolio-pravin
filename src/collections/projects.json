@@ -2,7 +2,7 @@
 	{
 		"name": "Apple Landing Page",
 		"description": "Apple aesthetic landing page",
-		"image": "/assets/images/projects/apple.png",
+		"image": "../public/assets/images/projects/apple.png",
 		"url": "https://aaple-2025.netlify.app/"
 	},
 	{
