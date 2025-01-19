@@ -1,10 +1,11 @@
 ---
-layout: ../../layouts/main.astro
-title: What is Hooks?
+layout: ../../layouts/post.astro
 description: Hooks are a new addition to React 16.8. They let you use state and other React features without writing a class.
-# image: /assets/images/posts/what-is-hooks.png
-dateFormatted: 2025-01-19
+title: "What is Hooks?"
+dateFormatted: "2025-01-19"
 ---
+
+
 
 # What is Hooks?
 

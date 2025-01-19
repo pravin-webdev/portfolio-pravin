@@ -1,9 +1,11 @@
 ---
+
 layout: ../../layouts/post.astro
-description: "Users now skim web content, highlighting the need for adaptable content strategies."
-title: "UX Myths: Skimming the Web"
+description: "Explore the best design and technology blogs for inspiration and insights."
+title: "Blogs List"
 dateFormatted: Jan 18, 2025
 ---
+
 In today's digital age, the way we consume information online has evolved significantly. Recent studies reveal that users often **skim** web content rather than read it word-for-word. This behavior emphasizes the need for content creators to adapt their strategies to maintain engagement.
 
 **Decline in Traditional Reading Habits**
