@@ -1,9 +1,9 @@
 [
 	{
-		"name": "TempMail.Best",
-		"description": "Best Temporary Email.",
-		"image": "",
-		"url": "https://tempmail.best"
+		"name": "Apple Landing Page",
+		"description": "Apple aesthetic landing page",
+		"image": "/assets/images/projects/apple.png",
+		"url": "https://aaple-2025.netlify.app/"
 	},
 	{
 		"name": "DNS.Surf",
