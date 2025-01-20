@@ -6,10 +6,10 @@
 		"url": "https://aaple-2025.netlify.app/"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
+		"name": "Docs App",
+		"description": "A simple docs app with Framer Motion.",
+		"image": "/assets/images/projects/docs-app.png",
+		"url": "https://docs-framer-app.netlify.app/"
 	},
 	{
 		"name": "HTML.ZONE",
